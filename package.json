@@ -1,0 +1,12 @@
+{
+  "name": "serverless-api",
+  "version": "1.0.0",
+  "description": "> Worked on this lap with Hasan Tommalieh ## UML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
